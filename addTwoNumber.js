@@ -10,9 +10,9 @@ function addTwoNumbers(l1, l2) {
         if(addValue <10){
             newList.push(addValue)
         }
-        else{
+        else{git 
             newList.push(addValue%10)
         }
     }
-    return newList
+    return newList;
 };
